@@ -1,3 +1,4 @@
+//just one exemple of code.
 function controler(n) {
       var t;
       while(!isNaN(n) && n>=0 && n<=1000){
